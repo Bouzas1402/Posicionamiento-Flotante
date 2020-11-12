@@ -37,6 +37,5 @@ section{
 }
 section p:first-child {
     clear: inherit;
-text-anchor: middle;
     font-family: "Arial Black";
 }
