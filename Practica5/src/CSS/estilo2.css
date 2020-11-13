@@ -14,11 +14,11 @@ padding: 0;
     float: left;
 }
 #main {
-    background-color: blue;
+    background-color: #6969ca;
     float: right;
     width: 78%;
 }
-section{
+div {
     text-align: center;
     height: 400px;
 
@@ -27,15 +27,10 @@ section{
     margin: 1%;
     float: right;
     width: 48%;
-    margin: 1%;
     height: 300px;
 }
 .p1{
     width: 50%;
     float: left;
     height: 300px;
-}
-section p:first-child {
-    clear: inherit;
-    font-family: "Arial Black";
 }
